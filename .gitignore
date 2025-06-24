@@ -8,3 +8,6 @@ count.txt
 .output
 .vinxi
 count.txt
+
+.vercel
+.env*.local
